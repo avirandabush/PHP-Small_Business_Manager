@@ -124,7 +124,7 @@
 
         
     ?>
-
+ 
     <form method="POST" action="<?php echo htmlspecialchars($_SERVER['PHP_SELF'] ); ?>" autocomplete="off">
         <h2>Sign Up</h2>
 
