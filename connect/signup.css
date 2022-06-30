@@ -1,0 +1,14 @@
+body
+{
+    text-align: center;
+}
+
+.invalid
+{
+    border: 1px solid #f00;
+}
+
+.invalid-filed
+{
+    color: #f00;
+}
